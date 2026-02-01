@@ -53,12 +53,3 @@ This project engineers a **Structure-Aware RAG pipeline** specifically for compe
 * **Embeddings:** BAAI/bge-m3
 * **Sparse Retrieval:** BM25
 * **Data Format:** JSON + LaTeX
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone [https://github.com/yourusername/JEE-Math-RAG.git](https://github.com/yourusername/JEE-Math-RAG.git)
-
-# Install dependencies
-pip install -r requirements.txt
